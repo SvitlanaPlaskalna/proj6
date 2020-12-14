@@ -160,9 +160,9 @@ a.active {
 
 }
 
-.arrow:after{
+/*.arrow:after{
 	content: "\1F846"
-}
+}*/
 
 .slider {
 	float: right;
